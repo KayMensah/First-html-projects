@@ -1,0 +1,15 @@
+.signup{font-family: 'Georama', sans-serif;#
+	border: 3px;
+	 border-color: green; 
+	 border-style: solid;
+	background-color: 
+	lightpink;
+margin: 60px;}
+
+
+.input{border: 2px; border-color: green; border-style: solid;
+width: 200px;
+height: 20px;
+border-radius: 30px;}
+
+#head{background: lightyellow; border: 2px;}
